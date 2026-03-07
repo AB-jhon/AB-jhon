@@ -60,18 +60,6 @@ Mi trabajo se sustenta en estándares modernos (2024–2026): componentes reutil
 
 ---
 
-## Estadísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AB-jhon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0969da&icon_color=0969da&text_color=e6edf3&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AB-jhon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0969da&text_color=e6edf3)
-
-</div>
-
----
-
 ## Tecnologías
 
 <div align="center">
