@@ -6,9 +6,6 @@
 
 *Especialidad en Diseño Web — Centro Universitario San Ángel (CUSA)*
 
-[![GitHub followers](https://img.shields.io/github/followers/AB-jhon?style=flat&color=0969da&labelColor=0d1117&label=Seguidores)](https://github.com/AB-jhon)
-![Profile Views](https://komarev.com/ghpvc/?username=AB-jhon&color=0969da&style=flat&label=Visitas)
-
 </div>
 
 ---
@@ -58,8 +55,8 @@ Mi trabajo se sustenta en estándares modernos (2024–2026): componentes reutil
 - `BasesDatos` — Comparativa visual SQL vs NoSQL
 - `Proyectos` — Gestión profesional con Kanban, Agile y CI/CD
 
-[![Ver proyecto](https://img.shields.io/badge/Despliegue_en_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AB-jhon)
-[![Ver repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AB-jhon)
+[![Ver proyecto](https://img.shields.io/badge/Despliegue_en_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://compendio-desarrollo-web.vercel.app/)
+[![Ver repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AB-jhon?tab=repositories)
 
 ---
 
