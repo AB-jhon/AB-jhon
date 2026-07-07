@@ -59,4 +59,14 @@ Complemento mi perfil con experiencia en desarrollo web utilizando React, JavaSc
 Busco oportunidades en áreas de Análisis de Datos, Business Intelligence y desarrollo de soluciones basadas en información para apoyar la toma de decisiones empresariales.
 
 
+## Certificaciones
+
+- Administración de Bases de Datos – INTELIMEX
+- SQL Server – Udemy
+
+## Actualmente aprendiendo
+
+- Power BI para Business Intelligence
+- Desarrollo de Dashboards y KPIs
+
 </div>
