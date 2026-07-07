@@ -17,7 +17,6 @@ He trabajado en la generación de indicadores de desempeño, elaboración de rep
 
 Complemento mi perfil con experiencia en desarrollo web utilizando React, JavaScript y tecnologías modernas para la construcción de soluciones digitales.
 
----
 
 ## Data & Business Intelligence
 
@@ -39,7 +38,6 @@ Complemento mi perfil con experiencia en desarrollo web utilizando React, JavaSc
 - Git
 - GitHub
 
----
 
 ## Proyectos Destacados
 
@@ -54,7 +52,7 @@ Complemento mi perfil con experiencia en desarrollo web utilizando React, JavaSc
 - CV Interactivo
 - Compendio Desarrollo Web
 - Sitio Web Taller Automotriz
----
+
 
 ## Objetivo Profesional
 
