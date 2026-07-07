@@ -59,8 +59,4 @@ Complemento mi perfil con experiencia en desarrollo web utilizando React, JavaSc
 Busco oportunidades en áreas de Análisis de Datos, Business Intelligence y desarrollo de soluciones basadas en información para apoyar la toma de decisiones empresariales.
 
 
-**Jhonathan Anota Badillo** · Full Stack Developer
-
-*Especialidad en Diseño Web · Centro Universitario San Ángel · 2016–2026*
-
 </div>
