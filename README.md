@@ -24,11 +24,11 @@ Complemento mi perfil con experiencia en desarrollo web utilizando React, JavaSc
 
 - SQL Server
 - Power BI
-- Excel
-- KPIs
-- Reporting
+- Excel Avanzado
+- KPIs y Métricas
+- Reportería Ejecutiva
 - ETL
-- Data Analysis
+- Análisis de Datos
 
 ## Desarrollo Web
 
