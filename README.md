@@ -9,35 +9,18 @@
 </div>
 
 
-## Sobre mí
+## Perfil Profesional
 
-Analista de Datos e Ingeniero en Sistemas Computacionales con experiencia en análisis de información operativa y administrativa para la toma de decisiones.
-
-He trabajado en la generación de indicadores de desempeño, elaboración de reportes ejecutivos, administración de bases de datos SQL Server y visualización de información mediante Power BI.
-
-Complemento mi perfil con experiencia en desarrollo web utilizando React, JavaScript y tecnologías modernas para la construcción de soluciones digitales.
+Ingeniero en Sistemas Computacionales especializado en el análisis de datos operativos y administrativos para la transformación de datos crudos en decisiones estratégicas. Experiencia en el diseño de arquitecturas de bases de datos relacionales, automatización de procesos ETL y creación de tableros de control ejecutivos (KPIs). Complemento mi perfil con habilidades avanzadas en desarrollo frontend (React/JavaScript), lo que me permite diseñar soluciones digitales e interfaces de datos interactivas, usables y de alto rendimiento
 
 
-## Data & Business Intelligence
+## Stack Tecnológico
 
-- SQL Server
-- Power BI
-- Excel Avanzado
-- KPIs y Métricas
-- Reportería Ejecutiva
-- ETL
-- Análisis de Datos
-
-## Desarrollo Web
-
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Vite
-- Git
-- GitHub
-
+## Área                            Tecnologías y Herramientas
+-- Data & Analytics                SQL Server, Power BI, Excel Avanzado (Power Query, Tablas Dinámicas), ETL
+-- Business Intelligence           Definición de KPIs, Modelado de Datos, Reportería Ejecutiva, Gestión de Métricas
+-- Desarrollo Web                  JavaScript, React, HTML5, CSS3, Vite, Node.js
+-- Herramientas & DevOps           Git, GitHub, Vercel
 
 ## Proyectos Destacados
 
