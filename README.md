@@ -18,24 +18,15 @@ He participado en la implementación y soporte de plataformas de Workforce Manag
 Complemento mi perfil con conocimientos en Power BI y desarrollo web utilizando React y JavaScript para la creación de soluciones digitales e interfaces de información.
 
 
-## Stack Tecnológico
+## Experiencia Relevante
 
-## Área                           Tecnologías y Herramientas
-* Data & Analytics                SQL Server, Power BI, Excel Avanzado (Power Query, Tablas Dinámicas), ETL
-* Business Intelligence           Definición de KPIs, Modelado de Datos, Reportería Ejecutiva, Gestión de Métricas
-* Desarrollo Web                  JavaScript, React, HTML5, CSS3, Vite, Node.js
-* Herramientas & DevOps           Git, GitHub, Vercel
+### Workforce Management & Business Intelligence
 
-### Data Analytics
-
-- Workforce Analytics Dashboard (En desarrollo)
-- Dashboard de Ventas con SQL Server y Power BI (En desarrollo)
-- SQL KPIs & Reporting Portfolio (En desarrollo)
-
-### Desarrollo Web
-
-- CV Interactivo
-- Compendio Desarrollo Web
+- Generación y análisis de reportes operativos mediante SQL Server.
+- Seguimiento de indicadores relacionados con asistencia, incidencias y prenómina.
+- Validación y transformación de información para procesos administrativos.
+- Soporte e implementación de soluciones de control de asistencia y gestión de personal.
+- Elaboración de métricas e indicadores para seguimiento operativo.
 
 
 ## Objetivo Profesional
@@ -48,9 +39,6 @@ Busco oportunidades en áreas de Análisis de Datos, Business Intelligence y des
 - Administración de Bases de Datos – INTELIMEX
 - SQL Server – Udemy
 
-## Actualmente aprendiendo
-
-- Power BI para Business Intelligence
-- Desarrollo de Dashboards y KPIs
+- Especialidad en Diseño Web - Centro Universitario San Ángel
 
 </div>
