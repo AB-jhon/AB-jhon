@@ -4,7 +4,7 @@
 
 **Data Analyst | SQL Server | Power BI | Business Intelligence**
 
-*Ingeniero en Sistemas Computacionales con experiencia en análisis de información, generación de KPIs, administración de bases de datos y desarrollo de soluciones web.*
+*Ingeniero en Sistemas Computacionales con experiencia en análisis de información operativa, generación de KPIs, administración de bases de datos SQL Server y desarrollo de reportes para la toma de decisiones.*
 
 </div>
 
