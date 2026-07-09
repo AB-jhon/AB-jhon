@@ -2,7 +2,7 @@
 
 # Jhonathan Anota Badillo
 
-**Data Analyst | Business Intelligence | SQL Server | Power BI | Web Development**
+**Data Analyst | SQL Server | Power BI | Business Intelligence**
 
 *Ingeniero en Sistemas Computacionales con experiencia en análisis de información, generación de KPIs, administración de bases de datos y desarrollo de soluciones web.*
 
