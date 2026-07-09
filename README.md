@@ -55,13 +55,12 @@ Busco oportunidades en áreas de Análisis de Datos, Business Intelligence y des
 
 ## Proyectos
 
-### Dashboard de Ventas (SQL Server + Power BI)
-Proyecto de análisis comercial para generación de KPIs de ventas, rentabilidad y desempeño por categoría.
-
 ### Compendio Desarrollo Web
 Compendio interactivo desarrollado con React y Vite para documentar conocimientos de desarrollo web.
+- compendio-desarrollo-web.vercel.app
 
-### CV Interactivo
-Currículum digital desarrollado con React, JavaScript y CSS.
+### Sitio Interactivo 
+Cuentos infantiles y educación emocional desarrollado con React, JavaScript, CSS y Netlify.
+- https://andi-vidandi.netlify.app/
 
 </div>
