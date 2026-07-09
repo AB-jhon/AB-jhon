@@ -8,7 +8,6 @@
 
 </div>
 
-
 ## Perfil Profesional
 
 Ingeniero en Sistemas Computacionales con experiencia en análisis de información operativa, administración de bases de datos SQL Server y generación de indicadores para la toma de decisiones.
