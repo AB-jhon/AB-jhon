@@ -11,30 +11,31 @@
 
 ## Perfil Profesional
 
-Ingeniero en Sistemas Computacionales especializado en el análisis de datos operativos y administrativos para la transformación de datos crudos en decisiones estratégicas. Experiencia en el diseño de arquitecturas de bases de datos relacionales, automatización de procesos ETL y creación de tableros de control ejecutivos (KPIs). Complemento mi perfil con habilidades avanzadas en desarrollo frontend (React/JavaScript), lo que me permite diseñar soluciones digitales e interfaces de datos interactivas, usables y de alto rendimiento
+Ingeniero en Sistemas Computacionales con experiencia en análisis de información operativa, administración de bases de datos SQL Server y generación de indicadores para la toma de decisiones.
+
+He participado en la implementación y soporte de plataformas de Workforce Management, procesando información de asistencia, horarios, incidencias y prenómina mediante reglas de negocio configurables. Experiencia en elaboración de consultas SQL, reportes operativos y visualización de información para áreas administrativas y de Recursos Humanos.
+
+Complemento mi perfil con conocimientos en Power BI y desarrollo web utilizando React y JavaScript para la creación de soluciones digitales e interfaces de información.
 
 
 ## Stack Tecnológico
 
-## Área                            Tecnologías y Herramientas
--- Data & Analytics                SQL Server, Power BI, Excel Avanzado (Power Query, Tablas Dinámicas), ETL
--- Business Intelligence           Definición de KPIs, Modelado de Datos, Reportería Ejecutiva, Gestión de Métricas
--- Desarrollo Web                  JavaScript, React, HTML5, CSS3, Vite, Node.js
--- Herramientas & DevOps           Git, GitHub, Vercel
-
-## Proyectos Destacados
+## Área                           Tecnologías y Herramientas
+* Data & Analytics                SQL Server, Power BI, Excel Avanzado (Power Query, Tablas Dinámicas), ETL
+* Business Intelligence           Definición de KPIs, Modelado de Datos, Reportería Ejecutiva, Gestión de Métricas
+* Desarrollo Web                  JavaScript, React, HTML5, CSS3, Vite, Node.js
+* Herramientas & DevOps           Git, GitHub, Vercel
 
 ### Data Analytics
 
-- Dashboard de Ventas (Power BI)
-- Análisis de Recursos Humanos
-- SQL KPIs Dashboard
+- Workforce Analytics Dashboard (En desarrollo)
+- Dashboard de Ventas con SQL Server y Power BI (En desarrollo)
+- SQL KPIs & Reporting Portfolio (En desarrollo)
 
 ### Desarrollo Web
 
 - CV Interactivo
 - Compendio Desarrollo Web
-- Sitio Web Taller Automotriz
 
 
 ## Objetivo Profesional
