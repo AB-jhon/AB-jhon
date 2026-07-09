@@ -59,7 +59,7 @@ Compendio interactivo desarrollado con React y Vite para documentar conocimiento
 - https://compendio-desarrollo-web.vercel.app/
 
 ### Sitio Interactivo 
-Cuentos infantiles y educación emocional desarrollado con React, JavaScript, CSS y Netlify.
+Cuentos infantiles y educación emocional desarrollado con React, JavaScript y CSS.
 - https://andi-vidandi.netlify.app/
 
 </div>
