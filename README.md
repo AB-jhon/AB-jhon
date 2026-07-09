@@ -57,7 +57,7 @@ Busco oportunidades en áreas de Análisis de Datos, Business Intelligence y des
 
 ### Compendio Desarrollo Web
 Compendio interactivo desarrollado con React y Vite para documentar conocimientos de desarrollo web.
-- compendio-desarrollo-web.vercel.app
+- https://compendio-desarrollo-web.vercel.app/
 
 ### Sitio Interactivo 
 Cuentos infantiles y educación emocional desarrollado con React, JavaScript, CSS y Netlify.
