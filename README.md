@@ -29,6 +29,18 @@ Complemento mi perfil con conocimientos en Power BI y desarrollo web utilizando 
 - Elaboración de métricas e indicadores para seguimiento operativo.
 
 
+## Tecnologías
+
+- SQL Server
+- Power BI
+- Excel Avanzado
+- Power Query
+- FastReport
+- Git / GitHub
+- JavaScript
+- React
+
+
 ## Objetivo Profesional
 
 Busco oportunidades en áreas de Análisis de Datos, Business Intelligence y desarrollo de soluciones basadas en información para apoyar la toma de decisiones empresariales.
@@ -38,7 +50,18 @@ Busco oportunidades en áreas de Análisis de Datos, Business Intelligence y des
 
 - Administración de Bases de Datos – INTELIMEX
 - SQL Server – Udemy
-
 - Especialidad en Diseño Web - Centro Universitario San Ángel
+  
+
+## Proyectos
+
+### Dashboard de Ventas (SQL Server + Power BI)
+Proyecto de análisis comercial para generación de KPIs de ventas, rentabilidad y desempeño por categoría.
+
+### Compendio Desarrollo Web
+Compendio interactivo desarrollado con React y Vite para documentar conocimientos de desarrollo web.
+
+### CV Interactivo
+Currículum digital desarrollado con React, JavaScript y CSS.
 
 </div>
